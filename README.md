@@ -1,4 +1,4 @@
-# Hello, I'm Aswanth V C👋
+# Hello, I'm Aswanth 👋
 
 Welcome to my GitHub profile! I'm passionate about Full-Stack development, software development, data science, etc. and always eager to learn and contribute to exciting projects. 
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about Full-Stack development, softw
 - 💬 Ask me about Web/Android/Anything technical.
 - 📫 How to reach me: https://www.linkedin.com/in/aswanth-vc-2612b91b9.
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: print("I'm really Funny, Ha Ha");
+- ⚡ Fun fact: '''print("I'm really Funny, Ha Ha");'''
 
 ### 🛠️ Technologies & Tools
 
