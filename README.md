@@ -12,9 +12,7 @@ print("I'm really Funny, Ha Ha");
 ```
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,django,figma,gcp,linux,laravel,mongodb,nodejs,vercel,vscode,github,python,javascript,ts,dart,cpp,java,html,php,bash,mysql,css&perline=12" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,django,figma,gcp,linux,laravel,mongodb,nodejs,vercel,vscode,github,python,javascript,ts,dart,cpp,java,html,php,bash,mysql,css&perline=12" />
 </p>
 
 ### 🛠️ Technologies & Tools
