@@ -4,18 +4,13 @@ Welcome to my GitHub profile! I'm passionate about Full-Stack development, softw
 
 - 🌱 I’m currently learning blockchain and face recognition.
 - 💬 Ask me about Web/Android/Anything technical.
-- 📫 How to reach me: https://www.linkedin.com/in/aswanth-vc-2612b91b9.
-- ⚡ Fun fact:
+- 📫 How to reach me: https://www.linkedin.com/in/aswanth-vc-2612b91b9
 
-```python
-print("I'm really Funny, Ha Ha");
-```
+### 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,django,figma,gcp,linux,laravel,mongodb,nodejs,vercel,vscode,github,python,javascript,ts,dart,cpp,java,html,php,bash,mysql,css&perline=12" />
 </p>
-
-### 🛠️ Technologies & Tools
 
 Here are some of the technologies and tools I'm familiar with:
 
