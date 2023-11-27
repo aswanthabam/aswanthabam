@@ -47,9 +47,9 @@ Looking forward to connecting with fellow developers and enthusiasts. Feel free 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswanthabam&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=transparent&border_radius=10&card_width=500px&include_all_commits=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aswanthabam&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<div style="display:flex;align-items:center;flex-direction:column"> 
+<!-- <div style="display:flex;align-items:center;flex-direction:column"> 
  <h3>Visitor Count</h3>
  <img src="https://profile-counter.glitch.me/aswanthabam/count.svg" />
-</div>
+</div> -->
 
 </center>
