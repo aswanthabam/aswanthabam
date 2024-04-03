@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about Full-Stack development, softw
 
 - 🌱 I’m currently learning blockchain and face recognition.
 - 💬 Ask me about Web/Android/Anything technical.
-- 📫 How to reach me: https://www.linkedin.com/in/aswanth-vc-2612b91b9
+- 📫 How to reach me: https://www.linkedin.com/in/aswanth-vc
 
 ### 🛠️ Technologies & Tools
 
