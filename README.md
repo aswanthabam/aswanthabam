@@ -43,10 +43,10 @@ Let's connect and collaborate! You can find me on:
 Looking forward to connecting with fellow developers and enthusiasts. Feel free to reach out!
 
 ## Github Status
-<center>
-  
-![Status](https://github-readme-stats.vercel.app/api?username=aswanthabam&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&show_owner=true&border_radius=10&card_width=500px)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswanthabam&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=transparent&border_radius=10&card_width=500px&include_all_commits=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aswanthabam&theme=dark&background=222)](https://git.io/streak-stats)
 
-</center>
+<div style="align: center">
+<img src="https://github-readme-stats.vercel.app/api?username=aswanthabam&show_icons=true&theme=transparent&rank_icon=github&include_all_commits=true&show_owner=true&border_radius=10&card_width=500px" style="display=inline-block; max-width:400px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswanthabam&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=transparent&border_radius=10&card_width=500px&include_all_commits=true" style="display=inline-block; max-width:400px"/>
+</div>
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=aswanthabam&theme=dark&background=222" style="display=inline-block"/>
