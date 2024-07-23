@@ -49,4 +49,4 @@ Looking forward to connecting with fellow developers and enthusiasts. Feel free 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswanthabam&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact&theme=transparent&border_radius=10&card_width=500px&include_all_commits=true" style="display=inline-block; width:480px"/>
 </div>
 
-<img src="http://github-readme-streak-stats.herokuapp.com?user=aswanthabam&theme=dark&background=222" style="display=inline-block"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=aswanthabam&theme=dark&background=222" style="display=inline-block; width:480px"/>
