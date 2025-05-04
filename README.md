@@ -2,7 +2,7 @@
 
 I'm passionate about Full-Stack development, software development, data science, etc. and always eager to learn and contribute to exciting projects.
 
-- 🌱 I’m currently learning blockchain and web3.
+- 🌱 I’m currently learning golang and rust.
 - 💬 Ask me about Web/Android/Anything technical.
 - 📫 How to reach me: [https://www.linkedin.com/in/aswanth-vc](https://www.linkedin.com/in/aswanth-vc)
 
