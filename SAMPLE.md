@@ -9,13 +9,11 @@ Full-Stack Developer | Curious Builder | Always Learning
 
 ### 📊 GitHub at a glance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswanthabam&show_icons=true&theme=transparent&hide_title=true&include_all_commits=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswanthabam&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="160" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=aswanthabam&show_icons=true&theme=transparent&hide_title=true&include_all_commits=true&hide_border=true" height="160" />
 
 ---
-
-- 🌐 [Portfolio](https://aswanthvc.avctech.in)
-- 🛠️ [Projects](https://aswanthvc.avctech.in/projects)
-- 📫 [LinkedIn](https://www.linkedin.com/in/aswanth-vc)
+<p align='center'>
+  🌐 <a href="https://aswanthvc.avctech.in">Portfolio</a> •
+  🛠️ <a href="https://aswanthvc.avctech.in/projects">Projects</a> •
+  📫 <a href="https://www.linkedin.com/in/aswanth-vc">LinkedIn</a>
+</p>
