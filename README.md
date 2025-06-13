@@ -2,7 +2,7 @@
 
 Full-Stack Developer | Curious Builder | Always Learning
 
-- Exploring **Go** & **Rust**
+- Exploring **Go Lang** & **Rust**
 - Passionate about clean code and impactful projects
 
 ---
