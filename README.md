@@ -8,7 +8,7 @@ Full-Stack Developer | Curious Builder | Always Learning
 ---
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,django,solidity,golang,figma,gcp,linux,mongodb,nodejs,vercel,vscode,github,python,javascript,ts,dart,cpp,java,html,bash,mysql,css&perline=12" alt="Shit! this image cheated me"/>
+<img src="https://skillicons.dev/icons?i=flutter,react,androidstudio,django,solidity,golang,figma,gcp,linux,mongodb,nodejs,vercel,vscode,github,python,javascript,ts,dart,cpp,java,html,bash,mysql,fastapi&perline=12" alt="Shit! this image cheated me"/>
 </p>
 
 ---
